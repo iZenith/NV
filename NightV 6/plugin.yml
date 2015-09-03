@@ -1,0 +1,7 @@
+name: NV
+main: com.pandoh.plugen.NightV
+version: 1.0
+commands:
+   nv:
+      description: Toggles Night Vision
+      usage: /<command>
